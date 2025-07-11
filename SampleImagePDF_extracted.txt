@@ -1,0 +1,5 @@
+Left Margin
+
+This is a sample image based PDF.
+| am taking a screenshot of a Google doc.
+Then pasting that screenshot into a a google doc and saving it as a pdf.

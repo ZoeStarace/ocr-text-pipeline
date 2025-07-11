@@ -1,0 +1,3 @@
+Hello, this is a sample PDF file.  
+It contains text that can be extracted directly. 
+This is for testing text extraction scripts.
